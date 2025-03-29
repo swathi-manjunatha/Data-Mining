@@ -31,10 +31,17 @@ This repository contains a series of hands-on data mining assignments completed 
 - **Techniques**: Decision Tree, K-Nearest Neighbors, Naive Bayes, Cross-Validation, Grid Search
 - **Outcome**: Compared model accuracy and identified best hyperparameters for disease prediction.
 
-### 🛒 HW5: Market Basket Analysis & Clustering
-- **Datasets**: Retail Transaction Data, Landmine Clustering
-- **Techniques**: Apriori Algorithm, Association Rules, K-Means Clustering, PCA for Visualization
-- **Outcome**: Extracted frequent itemsets and segmented data into meaningful clusters.
+## 🛒 HW5: Market Basket Analysis & Clustering (Two Tasks)
+## 📦 Task 1: Market Basket Analysis
+- **Dataset**: store_data.csv (Retail Transactions)
+- **Techniques**: Manual support/confidence calculation, Apriori Algorithm, Association Rule Mining
+- **Outcome**:  Identified frequent itemsets and extracted association rules reflecting customer buying patterns.
+
+## 📊 Task 2: Customer Clustering
+- **Dataset**: land_mines.csv
+- **Techniques**: K-Means Clustering, Elbow Method, Silhouette Score
+- **Outcome**: Clustered data points to uncover natural groupings and interpreted cluster behavior based on numeric features.
+  <img width="795" alt="Screenshot 2025-03-29 at 6 06 19 PM" src="https://github.com/user-attachments/assets/71f09220-eec0-45f5-9c99-788c76387116" />
 <img width="761" alt="Screenshot 2025-03-29 at 5 57 10 PM" src="https://github.com/user-attachments/assets/f18d748c-5ec5-47ab-8e3f-d6c8fbd28566" />
 <img width="811" alt="Screenshot 2025-03-29 at 5 57 15 PM" src="https://github.com/user-attachments/assets/bc2b5070-d48c-4be5-b97f-b58f6399b788" />
 <img width="882" alt="Screenshot 2025-03-29 at 5 57 19 PM" src="https://github.com/user-attachments/assets/5238d340-4922-4117-9d5f-47508b13afa6" />
